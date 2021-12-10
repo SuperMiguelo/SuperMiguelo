@@ -11,9 +11,9 @@ I'm an IT Student and junior developeur from Lyon, France
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Back-end
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C/C++/C#](https://img.shields.io/badge/c,%20c++,%20cs-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54)
 
 ### Databases
