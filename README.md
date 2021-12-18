@@ -1,6 +1,6 @@
 <h1>Hi ! Welcome to my profile ! 👋🏼</h1>
 
-I'm an IT Student and junior developeur from Lyon, France 
+I'm an IT Student and junior developer from Lyon, France 
 
 ## Languages & Tools
 
